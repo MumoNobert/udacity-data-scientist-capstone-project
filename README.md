@@ -50,7 +50,7 @@ This project mainly utilized Jupyter Notebook using Python; In addition the  fol
 - utility_images : folder containing some images from Udacity for instructions
 
 ## <a id="results"/> Key Results
-The insights from this projects are discussed in a data story published on [Medium](https://medium.com/@mumongungu/a-taste-of-offers-at-starbucks-analyzing-which-offers-work-for-different-customer-demographics-378e4769b41c)
+The insights from this projects are discussed in a data story published on [Medium](https://mumongungu.medium.com/a-taste-of-offers-at-starbucks-analyzing-which-offers-work-for-different-customer-demographics-378e4769b41c)
 
 ## <a id="acknowledgements"/> Licenses and acknowledgements
 This project was worked as a Capstone project of the Udacity Data Scientist Nanodegree. The datasets are from Starbucks who have collaborated with Udacity to provide data to be used to complete this project. Special thanks for this collaboration to provide the data.
